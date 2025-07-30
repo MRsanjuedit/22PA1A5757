@@ -101,6 +101,3 @@ The backend will run on [http://localhost:5000](http://localhost:5000) by defaul
 ## Troubleshooting
 - If you see a white page in the frontend, check the browser console and ensure all dependencies are installed.
 - If logs are not being written, ensure the `logs/` directory is writable and the logging service is running.
-
-## License
-This project is for evaluation and demonstration purposes only.
